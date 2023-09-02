@@ -10,9 +10,14 @@
 </br>
 
 ## 2. 사용 기술
-#### `Front-end`
-  - Vue.js 3.0
-  - Element UI
+  -JavaScript
+  -HTML 
+  -CSS
+  -TensorFlow.js
+  -Teachable Machine
+  -localStorage
+  -jQuery
+  -Sass
 
 </br>
 
