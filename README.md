@@ -40,7 +40,7 @@ UI/UX 디자인: 사용자 중심의 디자인 원칙을 고려하여 직관적�
 >JavaScript / HTML / CSS / TensorFlow.js / Teachable Machine / localStorage  
 >jQuery / Sass 
 >  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+>[프로젝트 상세 설명]([https://github.com/Integerous/goQuality](https://github.com/LeeYeongSeok97/portfolio-/blob/main/DU-ASSISTANT.md)) 참고
 
 ---
 
