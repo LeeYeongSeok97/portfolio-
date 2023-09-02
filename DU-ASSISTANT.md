@@ -11,12 +11,17 @@
 
 ## 2. 사용 기술
   -JavaScript
+  
   -HTML 
+  
   -CSS
+  
   -TensorFlow.js
+  
   -Teachable Machine
-  -localStorage
+  
   -jQuery
+  
   -Sass
 
 </br>
