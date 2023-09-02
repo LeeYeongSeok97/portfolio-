@@ -31,14 +31,14 @@ UI/UX 디자인: 사용자 중심의 디자인 원칙을 고려하여 직관적�
 
 </br>
 
-## :pushpin: DU-ASSISTANT
-### 1. [goQuality](https://github.com/Integerous/goQuality)
+## :pushpin: Projects
+### 1. [DU-ASSISTANT]()
 >인공지능 학습 도우미 (팀 프로젝트)  
 >개발 기간: 2022.3.2 ~ 2022.6.4  
 >  
 >기술 스택:  
 >JavaScript / HTML / CSS / TensorFlow.js / Teachable Machine / localStorage  
->jQuery / MySQL / Sass 
+>jQuery / Sass 
 >  
 >[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
 
@@ -50,6 +50,6 @@ UI/UX 디자인: 사용자 중심의 디자인 원칙을 고려하여 직관적�
 >  
 >기술 스택:  
 >React / JavaScript / JSX (JavaScript XML) / Tailwind CSS / Webpack  
->React Props / MySQL / Axios / Context API  
+>React Props / MySQL / Axios / Context API / Node.js / Express.js
 >  
 >[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
